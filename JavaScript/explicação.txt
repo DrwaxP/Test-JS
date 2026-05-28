@@ -1,0 +1,1 @@
+E necessario usar algumas coisas como express, node js, curl, cors e etc

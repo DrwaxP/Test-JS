@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Paulo",
+    "idade": "19",
+    "email": "Paulo@gmail.com",
+    "senha": "paulo019915"
+  },
+  {
+    "nome": "Alice",
+    "idade": "28",
+    "email": "alice@gmail.com",
+    "senha": "alice12937"
+  }
+]
